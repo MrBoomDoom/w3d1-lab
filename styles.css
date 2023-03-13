@@ -1,0 +1,40 @@
+body h2, h3, h4, h5, h6, p {
+    color: green
+}
+
+div > p {
+    color: red
+}
+
+h1 {
+    color: red
+}
+
+img {
+    height: 300px
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(75, 9, 9);
+    border: 5px black dashed;
+    margin: 10px;
+}
+
+span {
+    background-color: aliceblue;
+}
+
+button {
+    background-color: aqua;
+}
+button:hover {
+    background-color: blueviolet;
+}
+
+body {
+    background-size: 200px;
+    background-image: url('https://i.ytimg.com/vi/o8kc8tDjSwQ/maxresdefault.jpg');
+    background-position: top;
+}
